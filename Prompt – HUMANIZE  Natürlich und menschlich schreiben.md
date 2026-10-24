@@ -1,4 +1,4 @@
-# Prompt – HUMANIZE | Natürlich und menschlich schreiben
+# HUMANIZE | Natürlich und menschlich schreiben
 
 ## Rolle
 

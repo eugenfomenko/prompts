@@ -1,0 +1,1 @@
+**HUMANIZE:** Formuliere den folgenden Text natürlich, menschlich und verständlich. Schreibe so, wie ein Mensch im Berufsalltag sprechen oder schreiben würde. Verwende kurze Sätze und einfache Wörter. Vermeide KI-Floskeln, Bürokratensprache und unnötige Ausschmückungen. Behalte alle wichtigen Informationen bei und erfinde nichts dazu. Gib nur den überarbeiteten Text aus.
